@@ -7,11 +7,21 @@
 
 import SwiftUI
 
+extension String: Identifiable {
+    public var id: Self { self }
+}
+
 @main
 struct AlarmathApp: App {
+    @State private var notificationManager = LocalNotificationManager()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .task {
+                    await notificationManager.requestAuthorization()
+                }
+                .environment(notificationManager)
         }
     }
 }
