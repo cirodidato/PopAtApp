@@ -12,7 +12,7 @@ Notifications with sound, even when the app is in the background.
 
 ##Installation
 Clone this repository:
-git clone <https://github.com/your-username/missionalarm.git>  
+git clone <https://github.com/cirodidato/PopAtApp/tree/main>  
 Open the project in Xcode.
 Ensure your simulator or connected device is running iOS 15.0 or later.
 Build and run the app.
