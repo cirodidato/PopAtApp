@@ -2,9 +2,7 @@
 
 A smarter way to wake up! Solve a personalized mission to stop the alarm and be sure to feed your baby
 
-![IMG_0968](https://github.com/user-attachments/assets/91f83b6b-8740-4dff-a2fe-8684c57233d4)
-![IMG_0967](https://github.com/user-attachments/assets/a1dda581-3f6b-47f6-92c7-f95bdc9d1c93)
-![IMG_0965](https://github.com/user-attachments/assets/cfd82a96-ad2c-450b-a4f6-bb87b96d8022)
+![PopAtApp Screens](https://github.com/user-attachments/assets/f7b436ae-fdfb-479f-a920-339b1a3f2ba8)
 
 
 ##Features
