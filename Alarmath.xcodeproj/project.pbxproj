@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E3F5C532D131CC400791D0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E3F5C522D131CC400791D0B /* Assets.xcassets */; };
 		6E459E062D10717600703216 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E459DFD2D10717600703216 /* Preview Assets.xcassets */; };
-		6E459E072D10717600703216 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E459E032D10717600703216 /* Assets.xcassets */; };
 		6E459E082D10717600703216 /* AddEditAlarmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459DFF2D10717600703216 /* AddEditAlarmView.swift */; };
 		6E459E092D10717600703216 /* AlarmathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E002D10717600703216 /* AlarmathApp.swift */; };
 		6E459E0A2D10717600703216 /* AlarmRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E012D10717600703216 /* AlarmRowView.swift */; };
@@ -20,12 +20,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E3F5C522D131CC400791D0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E459DFD2D10717600703216 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6E459DFF2D10717600703216 /* AddEditAlarmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditAlarmView.swift; sourceTree = "<group>"; };
 		6E459E002D10717600703216 /* AlarmathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmathApp.swift; sourceTree = "<group>"; };
 		6E459E012D10717600703216 /* AlarmRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmRowView.swift; sourceTree = "<group>"; };
 		6E459E022D10717600703216 /* AlarmTriggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmTriggerView.swift; sourceTree = "<group>"; };
-		6E459E032D10717600703216 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E459E042D10717600703216 /* Homeview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homeview.swift; sourceTree = "<group>"; };
 		6E459E0D2D1076DA00703216 /* LocalNotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationManager.swift; sourceTree = "<group>"; };
 		6E459E0F2D107ADA00703216 /* Alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm.swift; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 				6E459E0D2D1076DA00703216 /* LocalNotificationManager.swift */,
 				6E459E112D108B5600703216 /* Question.swift */,
 				6E459E0F2D107ADA00703216 /* Alarm.swift */,
-				6E459E032D10717600703216 /* Assets.xcassets */,
+				6E3F5C522D131CC400791D0B /* Assets.xcassets */,
 				6E459DFE2D10717600703216 /* Preview Content */,
 			);
 			path = Alarmath;
@@ -147,7 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E459E062D10717600703216 /* Preview Assets.xcassets in Resources */,
-				6E459E072D10717600703216 /* Assets.xcassets in Resources */,
+				6E3F5C532D131CC400791D0B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
