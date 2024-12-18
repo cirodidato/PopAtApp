@@ -11,7 +11,7 @@ struct AlarmRowView: View {
     @Binding var alarm: Alarm
     
     var body: some View {
-        HStack {
+        VStack(alignment: .leading) {
             Toggle(isOn: $alarm.isActive) {
                 HStack {
                     Text(alarm.label)
@@ -19,6 +19,9 @@ struct AlarmRowView: View {
                     Text(alarm.time.formatted(date: .omitted, time: .shortened))
                 }
             }
+            
+            Text("Mission")
+                .foregroundStyle(.secondary)
         }
     }
 }
