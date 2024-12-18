@@ -7,30 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E3F5C532D131CC400791D0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E3F5C522D131CC400791D0B /* Assets.xcassets */; };
-		6E459E062D10717600703216 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E459DFD2D10717600703216 /* Preview Assets.xcassets */; };
-		6E459E082D10717600703216 /* AddEditAlarmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459DFF2D10717600703216 /* AddEditAlarmView.swift */; };
-		6E459E092D10717600703216 /* AlarmathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E002D10717600703216 /* AlarmathApp.swift */; };
-		6E459E0A2D10717600703216 /* AlarmRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E012D10717600703216 /* AlarmRowView.swift */; };
-		6E459E0B2D10717600703216 /* AlarmTriggerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E022D10717600703216 /* AlarmTriggerView.swift */; };
-		6E459E0C2D10717600703216 /* Homeview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E042D10717600703216 /* Homeview.swift */; };
-		6E459E0E2D1076DA00703216 /* LocalNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E0D2D1076DA00703216 /* LocalNotificationManager.swift */; };
-		6E459E102D107ADA00703216 /* Alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E0F2D107ADA00703216 /* Alarm.swift */; };
-		6E459E122D108B5600703216 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E459E112D108B5600703216 /* Question.swift */; };
+		6E3F5C612D131D6D00791D0B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E3F5C542D131D6D00791D0B /* Preview Assets.xcassets */; };
+		6E3F5C622D131D6D00791D0B /* LocalNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C5D2D131D6D00791D0B /* LocalNotificationManager.swift */; };
+		6E3F5C632D131D6D00791D0B /* AlarmathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C582D131D6D00791D0B /* AlarmathApp.swift */; };
+		6E3F5C642D131D6D00791D0B /* Homeview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C5C2D131D6D00791D0B /* Homeview.swift */; };
+		6E3F5C652D131D6D00791D0B /* AddEditAlarmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C562D131D6D00791D0B /* AddEditAlarmView.swift */; };
+		6E3F5C662D131D6D00791D0B /* Alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C572D131D6D00791D0B /* Alarm.swift */; };
+		6E3F5C672D131D6D00791D0B /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C5E2D131D6D00791D0B /* Question.swift */; };
+		6E3F5C682D131D6D00791D0B /* AlarmTriggerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C5A2D131D6D00791D0B /* AlarmTriggerView.swift */; };
+		6E3F5C692D131D6D00791D0B /* AlarmRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3F5C592D131D6D00791D0B /* AlarmRowView.swift */; };
+		6E3F5C6A2D131E9000791D0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E3F5C5B2D131D6D00791D0B /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6E3F5C522D131CC400791D0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6E459DFD2D10717600703216 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		6E459DFF2D10717600703216 /* AddEditAlarmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditAlarmView.swift; sourceTree = "<group>"; };
-		6E459E002D10717600703216 /* AlarmathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmathApp.swift; sourceTree = "<group>"; };
-		6E459E012D10717600703216 /* AlarmRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmRowView.swift; sourceTree = "<group>"; };
-		6E459E022D10717600703216 /* AlarmTriggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmTriggerView.swift; sourceTree = "<group>"; };
-		6E459E042D10717600703216 /* Homeview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homeview.swift; sourceTree = "<group>"; };
-		6E459E0D2D1076DA00703216 /* LocalNotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationManager.swift; sourceTree = "<group>"; };
-		6E459E0F2D107ADA00703216 /* Alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm.swift; sourceTree = "<group>"; };
-		6E459E112D108B5600703216 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
-		6E8C57452D0B293100A8A7A8 /* Alarmath.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Alarmath.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E3F5C542D131D6D00791D0B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6E3F5C562D131D6D00791D0B /* AddEditAlarmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditAlarmView.swift; sourceTree = "<group>"; };
+		6E3F5C572D131D6D00791D0B /* Alarm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm.swift; sourceTree = "<group>"; };
+		6E3F5C582D131D6D00791D0B /* AlarmathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmathApp.swift; sourceTree = "<group>"; };
+		6E3F5C592D131D6D00791D0B /* AlarmRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmRowView.swift; sourceTree = "<group>"; };
+		6E3F5C5A2D131D6D00791D0B /* AlarmTriggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmTriggerView.swift; sourceTree = "<group>"; };
+		6E3F5C5B2D131D6D00791D0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6E3F5C5C2D131D6D00791D0B /* Homeview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homeview.swift; sourceTree = "<group>"; };
+		6E3F5C5D2D131D6D00791D0B /* LocalNotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationManager.swift; sourceTree = "<group>"; };
+		6E3F5C5E2D131D6D00791D0B /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		6E8C57452D0B293100A8A7A8 /* PopAtApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopAtApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,35 +44,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6E459DFE2D10717600703216 /* Preview Content */ = {
+		6E3F5C552D131D6D00791D0B /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				6E459DFD2D10717600703216 /* Preview Assets.xcassets */,
+				6E3F5C542D131D6D00791D0B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		6E459E052D10717600703216 /* Alarmath */ = {
+		6E3F5C5F2D131D6D00791D0B /* PopAtApp */ = {
 			isa = PBXGroup;
 			children = (
-				6E459E002D10717600703216 /* AlarmathApp.swift */,
-				6E459E042D10717600703216 /* Homeview.swift */,
-				6E459E012D10717600703216 /* AlarmRowView.swift */,
-				6E459DFF2D10717600703216 /* AddEditAlarmView.swift */,
-				6E459E022D10717600703216 /* AlarmTriggerView.swift */,
-				6E459E0D2D1076DA00703216 /* LocalNotificationManager.swift */,
-				6E459E112D108B5600703216 /* Question.swift */,
-				6E459E0F2D107ADA00703216 /* Alarm.swift */,
-				6E3F5C522D131CC400791D0B /* Assets.xcassets */,
-				6E459DFE2D10717600703216 /* Preview Content */,
+				6E3F5C562D131D6D00791D0B /* AddEditAlarmView.swift */,
+				6E3F5C572D131D6D00791D0B /* Alarm.swift */,
+				6E3F5C582D131D6D00791D0B /* AlarmathApp.swift */,
+				6E3F5C592D131D6D00791D0B /* AlarmRowView.swift */,
+				6E3F5C5A2D131D6D00791D0B /* AlarmTriggerView.swift */,
+				6E3F5C5C2D131D6D00791D0B /* Homeview.swift */,
+				6E3F5C5D2D131D6D00791D0B /* LocalNotificationManager.swift */,
+				6E3F5C5E2D131D6D00791D0B /* Question.swift */,
+				6E3F5C5B2D131D6D00791D0B /* Assets.xcassets */,
+				6E3F5C552D131D6D00791D0B /* Preview Content */,
 			);
-			path = Alarmath;
+			path = PopAtApp;
 			sourceTree = "<group>";
 		};
 		6E8C573C2D0B293100A8A7A8 = {
 			isa = PBXGroup;
 			children = (
-				6E459E052D10717600703216 /* Alarmath */,
+				6E3F5C5F2D131D6D00791D0B /* PopAtApp */,
 				6E8C57462D0B293100A8A7A8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -80,7 +80,7 @@
 		6E8C57462D0B293100A8A7A8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6E8C57452D0B293100A8A7A8 /* Alarmath.app */,
+				6E8C57452D0B293100A8A7A8 /* PopAtApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -88,9 +88,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6E8C57442D0B293100A8A7A8 /* Alarmath */ = {
+		6E8C57442D0B293100A8A7A8 /* PopAtApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6E8C57532D0B293100A8A7A8 /* Build configuration list for PBXNativeTarget "Alarmath" */;
+			buildConfigurationList = 6E8C57532D0B293100A8A7A8 /* Build configuration list for PBXNativeTarget "PopAtApp" */;
 			buildPhases = (
 				6E8C57412D0B293100A8A7A8 /* Sources */,
 				6E8C57422D0B293100A8A7A8 /* Frameworks */,
@@ -100,11 +100,11 @@
 			);
 			dependencies = (
 			);
-			name = Alarmath;
+			name = PopAtApp;
 			packageProductDependencies = (
 			);
 			productName = Alarmath;
-			productReference = 6E8C57452D0B293100A8A7A8 /* Alarmath.app */;
+			productReference = 6E8C57452D0B293100A8A7A8 /* PopAtApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6E8C57402D0B293100A8A7A8 /* Build configuration list for PBXProject "Alarmath" */;
+			buildConfigurationList = 6E8C57402D0B293100A8A7A8 /* Build configuration list for PBXProject "PopAtApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -136,7 +136,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6E8C57442D0B293100A8A7A8 /* Alarmath */,
+				6E8C57442D0B293100A8A7A8 /* PopAtApp */,
 			);
 		};
 /* End PBXProject section */
@@ -146,8 +146,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E459E062D10717600703216 /* Preview Assets.xcassets in Resources */,
-				6E3F5C532D131CC400791D0B /* Assets.xcassets in Resources */,
+				6E3F5C6A2D131E9000791D0B /* Assets.xcassets in Resources */,
+				6E3F5C612D131D6D00791D0B /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,14 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E459E0E2D1076DA00703216 /* LocalNotificationManager.swift in Sources */,
-				6E459E082D10717600703216 /* AddEditAlarmView.swift in Sources */,
-				6E459E102D107ADA00703216 /* Alarm.swift in Sources */,
-				6E459E092D10717600703216 /* AlarmathApp.swift in Sources */,
-				6E459E0A2D10717600703216 /* AlarmRowView.swift in Sources */,
-				6E459E0B2D10717600703216 /* AlarmTriggerView.swift in Sources */,
-				6E459E0C2D10717600703216 /* Homeview.swift in Sources */,
-				6E459E122D108B5600703216 /* Question.swift in Sources */,
+				6E3F5C622D131D6D00791D0B /* LocalNotificationManager.swift in Sources */,
+				6E3F5C632D131D6D00791D0B /* AlarmathApp.swift in Sources */,
+				6E3F5C642D131D6D00791D0B /* Homeview.swift in Sources */,
+				6E3F5C652D131D6D00791D0B /* AddEditAlarmView.swift in Sources */,
+				6E3F5C662D131D6D00791D0B /* Alarm.swift in Sources */,
+				6E3F5C672D131D6D00791D0B /* Question.swift in Sources */,
+				6E3F5C682D131D6D00791D0B /* AlarmTriggerView.swift in Sources */,
+				6E3F5C692D131D6D00791D0B /* AlarmRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,11 +298,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Alarmath/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"PopAtApp/Preview Content\"";
 				DEVELOPMENT_TEAM = TXUZ87WCJ2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = HavanApp;
+				INFOPLIST_KEY_CFBundleDisplayName = PopAtApp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -328,11 +328,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Alarmath/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"PopAtApp/Preview Content\"";
 				DEVELOPMENT_TEAM = TXUZ87WCJ2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = HavanApp;
+				INFOPLIST_KEY_CFBundleDisplayName = PopAtApp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -354,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6E8C57402D0B293100A8A7A8 /* Build configuration list for PBXProject "Alarmath" */ = {
+		6E8C57402D0B293100A8A7A8 /* Build configuration list for PBXProject "PopAtApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6E8C57512D0B293100A8A7A8 /* Debug */,
@@ -363,7 +363,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6E8C57532D0B293100A8A7A8 /* Build configuration list for PBXNativeTarget "Alarmath" */ = {
+		6E8C57532D0B293100A8A7A8 /* Build configuration list for PBXNativeTarget "PopAtApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6E8C57542D0B293100A8A7A8 /* Debug */,

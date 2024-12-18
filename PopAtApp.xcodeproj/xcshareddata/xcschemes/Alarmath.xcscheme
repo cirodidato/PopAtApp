@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6E8C57442D0B293100A8A7A8"
-            BuildableName = "Alarmath.app"
-            BlueprintName = "Alarmath"
-            ReferencedContainer = "container:Alarmath.xcodeproj">
+            BuildableName = "PopAtApp.app"
+            BlueprintName = "PopAtApp"
+            ReferencedContainer = "container:PopAtApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -67,6 +67,15 @@
             ReferencedContainer = "container:Alarmath.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6E8C57442D0B293100A8A7A8"
+            BuildableName = "Alarmath.app"
+            BlueprintName = "Alarmath"
+            ReferencedContainer = "container:Alarmath.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
