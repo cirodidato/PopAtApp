@@ -19,7 +19,7 @@ struct AlarmRowView: View {
                     Text(alarm.time.formatted(date: .omitted, time: .shortened))
                 }
             }
-            
+
             Text("Mission")
                 .foregroundStyle(.secondary)
         }

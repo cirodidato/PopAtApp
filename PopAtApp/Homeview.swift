@@ -23,8 +23,8 @@ struct HomeView: View {
                         .padding()
                 } else {
                     List {
-                        ForEach($alarms) { $alarm in
-                            AlarmRowView(alarm: $alarm)
+                        ForEach($alarms) { alarm in
+                            AlarmRowView(alarm: alarm)
                         }
                         .onDelete(perform: deleteAlarm)
                     }

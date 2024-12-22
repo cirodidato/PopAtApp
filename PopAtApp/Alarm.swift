@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct Alarm: Identifiable, Equatable {
-    var id = UUID()
+class Alarm: Identifiable, Equatable {
+    var id: UUID
     var time: Date
     var label: String
     var isActive: Bool
@@ -17,6 +17,13 @@ struct Alarm: Identifiable, Equatable {
         let formatter = DateFormatter()
         formatter.timeStyle = .short
         return formatter.string(from: time)
+    }
+    
+    init(id: UUID = UUID(), time: Date, label: String, isActive: Bool) {
+        self.id = id
+        self.time = time
+        self.label = label
+        self.isActive = isActive
     }
     
     static func ==(lhs: Alarm, rhs: Alarm) -> Bool {
